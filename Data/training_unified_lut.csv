@@ -1,0 +1,111 @@
+src,orig_code,orig_label,class_id,class_name,class_group
+LPIS,201,Maïs ensilage,1,Maïs ensilage,crop
+LPIS,202,Maïs grain,2,Maïs grain,crop
+LPIS,311,Froment d'hiver,3,Froment d'hiver,crop
+LPIS,312,Froment de printemps,4,Froment de printemps,crop
+LPIS,321,Orge d'hiver,5,Orge d'hiver,crop
+LPIS,322,Orge de printemps,6,Orge de printemps,crop
+LPIS,323,Orge de brasserie,7,Orge de brasserie,crop
+LPIS,331,Seigle d'hiver,8,Seigle d'hiver,crop
+LPIS,332,Seigle de printemps,9,Seigle de printemps,crop
+LPIS,341,Avoine d'hiver,10,Avoine d'hiver,crop
+LPIS,342,Avoine de printemps,11,Avoine de printemps,crop
+LPIS,351,Triticale d'hiver,12,Triticale d'hiver,crop
+LPIS,352,Triticale de printemps,13,Triticale de printemps,crop
+LPIS,36,Epeautre d'hiver,14,Epeautre d'hiver,crop
+LPIS,362,Petit épeautre,15,Petit épeautre,crop
+LPIS,37,Sarrasin,16,Sarrasin,crop
+LPIS,381,Sorgho,17,Sorgho,crop
+LPIS,382,Quinoa,18,Quinoa,crop
+LPIS,391,Mélange de céréales d'hiver ( plus de 50%) et de  légumineuses (plus de 20%),19,Mélange de céréales d'hiver ( plus de 50%) et de  légumineuses (plus de 20%),crop
+LPIS,392,Mélange de céréales de printemps ( plus de 50%) et de  légumineuses (plus de 20%),20,Mélange de céréales de printemps ( plus de 50%) et de  légumineuses (plus de 20%),crop
+LPIS,393,Mélange de céréales d'hiver uniquement,21,Mélange de céréales d'hiver uniquement,crop
+LPIS,394,Mélange de céréales de printemps uniquement,22,Mélange de céréales de printemps uniquement,crop
+LPIS,4111,Colza d'hiver,23,Colza d'hiver,crop
+LPIS,4112,Navette d'hiver (graines),24,Navette d'hiver (graines),crop
+LPIS,42,Tournesol,25,Tournesol,crop
+LPIS,43,Soja,26,Soja,crop
+LPIS,46,Autres oléagineux,27,Autres oléagineux,crop
+LPIS,511,Pois protéagineux d'hiver,28,Pois protéagineux d'hiver,crop
+LPIS,512,Pois protéagineux de printemps,29,Pois protéagineux de printemps,crop
+LPIS,521,Fèves et Féveroles d'hiver,30,Fèves et Féveroles d'hiver,crop
+LPIS,522,Fèves et Féveroles de printemps,31,Fèves et Féveroles de printemps,crop
+LPIS,541,Mélange d'hiver de légumineuses prépondérantes  (plus de 50%) et de céréales ou de graminées,32,Mélange d'hiver de légumineuses prépondérantes  (plus de 50%) et de céréales ou de graminées,crop
+LPIS,542,Mélange de printemps de légumineuses prépondérantes  (plus de 50%) et  de céréales ou ou de graminées,33,Mélange de printemps de légumineuses prépondérantes  (plus de 50%) et  de céréales ou ou de graminées,crop
+LPIS,6,Prairie et fourrage,34,Prairie et fourrage,crop
+LPIS,614,Prairie avec moins de 90 % couvert herbacé (pratiques locales établies),35,Prairie avec moins de 90 % couvert herbacé (pratiques locales établies),crop
+LPIS,71,Betterave fourragère,36,Betterave fourragère,crop
+LPIS,72,Trèfles,37,Trèfles,crop
+LPIS,73,Luzerne,38,Luzerne,crop
+LPIS,7431,Ortie,39,Ortie,crop
+LPIS,748,Silphie,40,Silphie,crop
+LPIS,77,Autres mélanges (avec moins de 50 % de graminées) que ceux déjà listés *,41,Autres mélanges (avec moins de 50 % de graminées) que ceux déjà listés *,crop
+LPIS,80,Jachère,42,Jachère,crop
+LPIS,812,Jachère non herbacée,43,Jachère non herbacée,crop
+LPIS,813,Jachère mellifère,44,Jachère mellifère,crop
+LPIS,85,Autres couverts semés que ceux déjà listés,45,Autres couverts semés que ceux déjà listés,crop
+LPIS,8516,Cultures fruitières annuelles - Fraise sous serre,46,Cultures fruitières annuelles - Fraise sous serre,crop
+LPIS,8561,Endives de Bruxelles (pour la racine) (transformation industrielle),47,Endives de Bruxelles (pour la racine) (transformation industrielle),crop
+LPIS,872,Chanvre non textile (culture soumise à autorisation préalable au semis),48,Chanvre non textile (culture soumise à autorisation préalable au semis),crop
+LPIS,883,Cultures forestières à rotation courte (taillis à très courte rotation),49,Cultures forestières à rotation courte (taillis à très courte rotation),crop
+LPIS,884,Miscanthus,50,Miscanthus,crop
+LPIS,901,Pomme de terre (non hâtives),51,Pomme de terre (non hâtives),crop
+LPIS,902,Pomme de terre (plants),52,Pomme de terre (plants),crop
+LPIS,903,Pomme de terre féculière,53,Pomme de terre féculière,crop
+LPIS,91,Betterave sucrière,54,Betterave sucrière,crop
+LPIS,9201,Noisetier,55,Noisetier,crop
+LPIS,9202,Noyer,56,Noyer,crop
+LPIS,921,Lin textile,57,Lin textile,crop
+LPIS,923,Lin d'hiver (fibre),58,Lin d'hiver (fibre),crop
+LPIS,931,"Pois récoltés à l'état frais, pois de conserverie",59,"Pois récoltés à l'état frais, pois de conserverie",crop
+LPIS,933,Pois chiche,60,Pois chiche,crop
+LPIS,9410,Haricots,61,Haricots,crop
+LPIS,9456,Courges butternut,62,Courges butternut,crop
+LPIS,951,Autres légumes de plein air,63,Autres légumes de plein air,crop
+LPIS,9511,Asperges,64,Asperges,crop
+LPIS,9514,Oignons (non-hâtifs),65,Oignons (non-hâtifs),crop
+LPIS,9515,Endives (chicons),66,Endives (chicons),crop
+LPIS,9516,Cultures fruitières annuelles - Fraises,67,Cultures fruitières annuelles - Fraises,crop
+LPIS,9519,Epinards,68,Epinards,crop
+LPIS,952,Cultures maraîchères sous verre,69,Cultures maraîchères sous verre,crop
+LPIS,9520,Pépinières de plants fruitiers ou de plantes ornementales,70,Pépinières de plants fruitiers ou de plantes ornementales,crop
+LPIS,9521,Autres cultures de légumes sous serre,71,Autres cultures de légumes sous serre,crop
+LPIS,953,Plantes aromatiques,72,Plantes aromatiques,crop
+LPIS,9535,Carotte (non hâtive),73,Carotte (non hâtive),crop
+LPIS,9538,Poireau,74,Poireau,crop
+LPIS,954,Autres plantes ornementales de plein air,75,Autres plantes ornementales de plein air,crop
+LPIS,9541,Courgettes,76,Courgettes,crop
+LPIS,9548,Choux - Légumes,77,Choux - Légumes,crop
+LPIS,9552,Tomates,78,Tomates,crop
+LPIS,9563,Oignons (hâtifs),79,Oignons (hâtifs),crop
+LPIS,958,Autres plantes ornementales sous serre,80,Autres plantes ornementales sous serre,crop
+LPIS,959,Persil,81,Persil,crop
+LPIS,96,Cultures horticoles non-comestibles,82,Cultures horticoles non-comestibles,crop
+LPIS,962,Sapins de Noël/ Résineux,83,Sapins de Noël/ Résineux,crop
+LPIS,966,Légume légumineuse,84,Légume légumineuse,crop
+LPIS,967,Maraichage diversifié,85,Maraichage diversifié,crop
+LPIS,9710,Cultures fruitières pluriannuelles (pommes) - basses tiges,86,Cultures fruitières pluriannuelles (pommes) - basses tiges,crop
+LPIS,9711,Cultures fruitières pluriannuelles (poires) - basses tiges,87,Cultures fruitières pluriannuelles (poires) - basses tiges,crop
+LPIS,9713,Cultures fruitières pluriannuelles (prunes) - basses tiges,88,Cultures fruitières pluriannuelles (prunes) - basses tiges,crop
+LPIS,9716,Vignes,89,Vignes,crop
+LPIS,9717,Cultures fruitières annuelles - Framboises,90,Cultures fruitières annuelles - Framboises,crop
+LPIS,9725,Cultures fruitières pluriannuelles (cerises) - basses tiges,91,Cultures fruitières pluriannuelles (cerises) - basses tiges,crop
+LPIS,9726,Cultures fruitières pluriannuelles (cerises) -hautes tiges,92,Cultures fruitières pluriannuelles (cerises) -hautes tiges,crop
+LPIS,9730,Cultures fruitières pluriannuelles (pommes) -hautes tiges,93,Cultures fruitières pluriannuelles (pommes) -hautes tiges,crop
+LPIS,9741,Cultures fruitière pluriannuelles-basses tiges,94,Cultures fruitière pluriannuelles-basses tiges,crop
+LPIS,9742,Cultures fruitière pluriannuelles-hautes tiges,95,Cultures fruitière pluriannuelles-hautes tiges,crop
+LPIS,9811,Chicorée à inuline,96,Chicorée à inuline,crop
+LPIS,9812,Chicorée à café,97,Chicorée à café,crop
+LPIS,9822,Houblon,98,Houblon,crop
+LPIS,99,Autres,99,Autres,crop
+WALOUS,1,class_1,1001,class_1,landcover
+WALOUS,2,class_2,1002,class_2,landcover
+WALOUS,3,class_3,1003,class_3,landcover
+WALOUS,4,class_4,1004,class_4,landcover
+WALOUS,5,class_5,1005,class_5,landcover
+WALOUS,6,class_6,1006,class_6,landcover
+WALOUS,7,class_7,1007,class_7,landcover
+WALOUS,8,class_8,1008,class_8,landcover
+WALOUS,9,class_9,1009,class_9,landcover
+WALOUS,80,class_80,1080,class_80,landcover
+WALOUS,90,class_90,1090,class_90,landcover
